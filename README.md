@@ -1,4 +1,4 @@
-👋 **Introduction**
+## 👋 Introduction
 
 Hello, I'm Unsa Memon, a passionate and curious Computer Science student from Sukkur IBA University. I have experience in web development, WordPress, and artificial intelligence, with additional interests in digital marketing and graphic design.
 
@@ -6,7 +6,7 @@ My portfolio includes projects that showcase my ability to combine creativity wi
 
 ---
 
-👀 **Interests**
+## 👀 Interests
 
 I'm deeply enthusiastic about technology and love working in areas such as:
 
@@ -19,7 +19,7 @@ I'm deeply enthusiastic about technology and love working in areas such as:
 
 ---
 
-🌱 **Currently Learning**
+## 🌱 Currently Learning
 
 I believe continuous learning is essential for success in tech. I'm currently focusing on:
 
@@ -32,13 +32,13 @@ I believe continuous learning is essential for success in tech. I'm currently fo
 * Node.js: Exploring server-side JavaScript with Node.js for scalable and efficient applications.
 
 
-💞 **Collaboration**
+## 💞 Collaboration
 
 I'm always open to collaborating on meaningful and exciting tech projects. If you have an idea or opportunity where we can work together, feel free to reach out — I’d love to connect!
 
 ---
 
-📫 How to Reach Me  
+## 📫 How to Reach Me  
 
 You can connect with me through the following channels:
 
