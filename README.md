@@ -4,8 +4,6 @@ Hello, I'm Unsa Memon, a passionate and curious Computer Science student from Su
 
 My portfolio includes projects that showcase my ability to combine creativity with technical knowledge. I’m a fast learner who embraces challenges and always gives 100% to every task. Welcome to my GitHub profile — a reflection of my learning journey and contributions to the tech world.
 
----
-
 ## 👀 Interests
 
 I'm deeply enthusiastic about technology and love working in areas such as:
@@ -16,8 +14,6 @@ I'm deeply enthusiastic about technology and love working in areas such as:
 * UI/UX Design and Graphic Designing
 * Digital Marketing (SEO, Social Media Strategy)
 * Database Management and Backend Development
-
----
 
 ## 🌱 Currently Learning
 
@@ -31,12 +27,9 @@ I believe continuous learning is essential for success in tech. I'm currently fo
 * Data Science – Analyzing data and building machine learning models for practical insights
 * Node.js: Exploring server-side JavaScript with Node.js for scalable and efficient applications.
 
-
 ## 💞 Collaboration
 
 I'm always open to collaborating on meaningful and exciting tech projects. If you have an idea or opportunity where we can work together, feel free to reach out — I’d love to connect!
-
----
 
 ## 📫 How to Reach Me  
 
